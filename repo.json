@@ -3,8 +3,8 @@
     {
       "name": "PvP Combat Config",
       "description": "Optimized configuration for PvP combat with KillAura, Velocity, and other combat modules pre-configured",
-      "downloadUrl": "https://github.com/example-user/meteor-configs/releases/download/v1.0/pvp-combat-config.zip",
-      "imageUrl": "https://github.com/example-user/meteor-configs/raw/main/images/pvp-combat.png",
+      "downloadUrl": "https://github.com/getthreadcontext/metor-configd/raw/refs/heads/main/modules.zip",
+      "imageUrl": "",
       "author": "ExampleUser",
       "version": "1.0"
     }
